@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>click_post_link '${1:link_text}'</string>
+	<string>click_on '${1:locator}'</string>
 	<key>name</key>
-	<string>click_post_link</string>
+	<string>click_on</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>cli</string>
+	<string>clo</string>
 	<key>uuid</key>
-	<string></string>
+	<string>A2097FE1-E39E-1C3F-65F3-D28F0DCA9FFE</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>visit(${2:'${1:url}'})</string>
+	<string>visit ${2:'${1:url}'}</string>
 	<key>name</key>
 	<string>visit</string>
 	<key>scope</key>

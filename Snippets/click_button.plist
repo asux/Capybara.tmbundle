@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>cli</string>
+	<string>clb</string>
 	<key>uuid</key>
 	<string>E4273C30-BCC4-4399-AA8D-5596B53E0329</string>
 </dict>
